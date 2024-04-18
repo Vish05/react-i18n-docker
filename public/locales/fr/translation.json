@@ -1,0 +1,7 @@
+{
+  "grettings": "Bonjour bienvenue",
+  "description": {
+    "line1": "Bienvenue React Docker et projet multilingue",
+    "line2": "Créé par {{name}}"
+  }
+}
